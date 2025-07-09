@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇸●🇳●🇺●🗄️➕️📖️ The official documentation source repository for the SNU Evidence Locker: Add to evidence locker addon, a tool for easily adding entries to the SNU Evidence Locker.
